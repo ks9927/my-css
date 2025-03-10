@@ -22,8 +22,11 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
+  margin: auto;
 }
+
+
 
 a {
   font-size: 22px;
