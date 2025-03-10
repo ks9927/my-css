@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -12,7 +12,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
 }
 
 ul {
@@ -27,8 +26,8 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  display: flex;
 }
+
 
 
 
