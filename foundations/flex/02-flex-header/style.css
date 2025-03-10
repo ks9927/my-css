@@ -19,10 +19,12 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
 }
 
-
-
+* {
+  outline: solid 2px blue;
+}
 a {
   font-size: 22px;
   background: white;
