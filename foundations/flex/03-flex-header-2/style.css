@@ -14,14 +14,17 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   align-items: center;
+  padding: 8px;
 }
 
 .left-header {
   display: flex;
+  padding-left: 16px;
 }
 
 .right-header {
   display: flex;
+  padding-right: 16px;
 }
 
 .profile-image {
