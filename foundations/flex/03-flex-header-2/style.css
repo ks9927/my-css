@@ -16,6 +16,14 @@ body {
   align-items: center;
 }
 
+.left-header {
+  display: flex;
+}
+
+.right-header {
+  display: flex;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -43,6 +51,10 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+}
+
+.links {
+  display: flex;
 }
 
 ul {
