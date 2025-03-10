@@ -20,14 +20,12 @@ body {
 
 .left-header {
   display: flex;
-  padding-left: 16px;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right-header {
   display: flex;
-  padding-right: 16px;
-  gap: 8px;
+  gap: 16px;
 }
 
 .profile-image {
@@ -62,7 +60,7 @@ a {
 .links {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
   padding: 0;
   margin: 0;
 }
