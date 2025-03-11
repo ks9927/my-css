@@ -16,6 +16,8 @@ img {
 
 .items {
   display: flex;
+  gap: 52px;
+  outline: 2px blue solid;
 }
 
 /* do not edit this footer */
