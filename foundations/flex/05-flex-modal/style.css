@@ -43,6 +43,8 @@ body {
 
 .header-and-close {
   outline: 2px solid purple;
+  display: flex;
+  justify-content: space-between;
 }
 
 .header {
