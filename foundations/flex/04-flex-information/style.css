@@ -16,13 +16,7 @@ img {
 
 .items {
   display: flex;
-  gap: 52px;
   outline: 2px blue solid;
-}
-
-.items > * {
-  width: 200px;
-  text-wrap: wrap;
 }
 
 /* do not edit this footer */
