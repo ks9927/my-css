@@ -52,6 +52,7 @@ a {
 .cards {
   outline: 3px solid blue;
   padding: 48px;
+  display: flex;
 }
 .card {
   border: 1px solid #eee;
