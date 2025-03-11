@@ -10,12 +10,7 @@ body {
   justify-content: space-between;
 }
 
-.header {
-  outline: 2px solid blue;
-}
-
 .content {
-  outline: 2px solid red;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -64,6 +59,5 @@ a {
   gap: 20px;
 }
 .footer {
-  outline: 2px solid green;
   background-color: #eee;
 }
