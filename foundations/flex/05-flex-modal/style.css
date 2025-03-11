@@ -35,7 +35,9 @@ body {
   border-radius: 50%;
   outline: 2px solid red;
   flex-shrink: 0;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .modal-info {
   outline: 2px solid green;
