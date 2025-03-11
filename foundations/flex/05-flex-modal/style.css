@@ -45,6 +45,11 @@ body {
   outline: 2px solid purple;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
