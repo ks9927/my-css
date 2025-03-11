@@ -34,6 +34,7 @@ body {
   height: 42px;
   border-radius: 50%;
   outline: 2px solid red;
+  flex-shrink: 0;
 }
 .modal-info {
   outline: 2px solid green;
