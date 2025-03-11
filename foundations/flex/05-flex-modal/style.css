@@ -20,6 +20,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  outline: 2px solid blue;
 }
 
 .icon {
@@ -33,6 +34,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  outline: 2px solid red;
+}
+.modal-info {
+  outline: 2px solid green;
+}
+
+.header-and-close {
+  outline: 2px solid purple;
 }
 
 .close-button {
