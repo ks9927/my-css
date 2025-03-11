@@ -17,6 +17,7 @@ img {
 .items {
   display: flex;
   outline: 2px blue solid;
+  gap: 52px;
 }
 
 .items > * {
