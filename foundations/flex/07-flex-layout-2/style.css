@@ -26,6 +26,10 @@ body {
   align-items: center;
 }
 
+.main-content {
+  display: flex;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
