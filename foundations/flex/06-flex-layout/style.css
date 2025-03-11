@@ -42,6 +42,11 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+
+.left-links, .right-link {
+  display: flex;
+  gap: 20px;
+}
 .footer {
   outline: 2px solid green;
 }
