@@ -42,17 +42,20 @@ body {
 }
 .modal-info {
   outline: 2px solid green;
+  
 }
 
 .header-and-close {
   outline: 2px solid purple;
   display: flex;
   justify-content: space-between;
+  align-items: last baseline;
 }
 
 .header {
   font-weight: bold;
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .close-button {
@@ -74,6 +77,7 @@ button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
+  margin-top: 10px;
 }
 
 button.continue {
