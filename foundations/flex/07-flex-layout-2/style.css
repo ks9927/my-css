@@ -52,11 +52,15 @@ a {
 .cards {
   outline: 3px solid blue;
   padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 48px;
+  width: 200px;
 }
 
