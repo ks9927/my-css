@@ -8,22 +8,29 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  outline: 3px solid red;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  outline: 3px solid green;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  outline: 3px solid orange;
 }
 
+.cards {
+  outline: 3px solid blue;
+}
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
