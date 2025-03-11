@@ -47,7 +47,7 @@ a {
   justify-content: space-between;
 }
 
-.left-links, .right-link {
+.left-links, .right-links {
   display: flex;
   gap: 20px;
 }
