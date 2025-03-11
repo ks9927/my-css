@@ -20,6 +20,11 @@ img {
   outline: 2px blue solid;
 }
 
+.items > * {
+  width: 200px;
+  text-wrap: wrap;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
