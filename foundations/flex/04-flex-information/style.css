@@ -19,6 +19,9 @@ img {
   outline: 2px blue solid;
 }
 
+.items > * {
+  outline: 2px red solid;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
