@@ -32,7 +32,6 @@ body {
 .main-content {
   display: flex;
   outline: 3px solid fuchsia;
-  flex-grow: 1;
 }
 
 .sidebar {
