@@ -11,7 +11,6 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  outline: 3px solid red;
   font-size: 32px;
   font-weight: 900;
   display: flex;
@@ -31,14 +30,12 @@ body {
 
 .main-content {
   display: flex;
-  outline: 3px solid fuchsia;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  outline: 3px solid orange;
   padding: 16px;
 }
 
@@ -49,7 +46,6 @@ a {
 }
 
 .cards {
-  outline: 3px solid blue;
   padding: 48px;
   display: flex;
   flex-wrap: wrap;
