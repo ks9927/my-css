@@ -10,10 +10,9 @@ html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: 100px 300px;
-  grid-template-rows: 100px 100px 500px 100px;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 1fr 1fr 5fr 1fr;
   gap: 15px;
-  border: solid 2px black;
   grid-template-areas: "header header"
                         "sidebar nav"
                         "sidebar article"
